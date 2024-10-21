@@ -1,0 +1,13 @@
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\bin\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.deps.json
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\bin\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.dll
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\bin\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.pdb
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.csproj.AssemblyReference.cache
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.AssemblyInfoInputs.cache
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.AssemblyInfo.cs
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.csproj.CoreCompileInputs.cache
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.sourcelink.json
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.dll
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\obj\Debug\net8.0\refint\CleanArchwithCQRSandMediator.Domain.dll
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.pdb
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Domain\obj\Debug\net8.0\ref\CleanArchwithCQRSandMediator.Domain.dll

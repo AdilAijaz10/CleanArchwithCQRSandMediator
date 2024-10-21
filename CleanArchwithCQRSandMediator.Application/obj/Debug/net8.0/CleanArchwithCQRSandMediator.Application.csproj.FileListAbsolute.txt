@@ -1,0 +1,16 @@
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\bin\Debug\net8.0\CleanArchwithCQRSandMediator.Application.deps.json
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\bin\Debug\net8.0\CleanArchwithCQRSandMediator.Application.dll
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\bin\Debug\net8.0\CleanArchwithCQRSandMediator.Application.pdb
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\bin\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.dll
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\bin\Debug\net8.0\CleanArchwithCQRSandMediator.Domain.pdb
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Application.csproj.AssemblyReference.cache
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Application.AssemblyInfoInputs.cache
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Application.AssemblyInfo.cs
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Application.csproj.CoreCompileInputs.cache
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Application.sourcelink.json
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\CleanArc.93DD3C2D.Up2Date
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Application.dll
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\refint\CleanArchwithCQRSandMediator.Application.dll
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchwithCQRSandMediator.Application.pdb
+D:\software\.Net Projects\CleanArchwithCQRSandMediator\CleanArchwithCQRSandMediator.Application\obj\Debug\net8.0\ref\CleanArchwithCQRSandMediator.Application.dll
